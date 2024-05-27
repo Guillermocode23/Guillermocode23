@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A passionate java developer from mexico 💥.</h3>
 
-- 🔭 I’m currently working on **My personal projets with java and sprin**
+- 🔭 I’m currently working on **My personal projets with java and spring boot**
 
 - 🌱 I’m currently learning **Spring boot, java 8 ,poo ,linux✨**
 
