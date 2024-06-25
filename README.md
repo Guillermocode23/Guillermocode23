@@ -21,16 +21,6 @@
   </a>
 </div>
 
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/Memorojaasrul">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Memorojaasrul&count=5" alt="Spotify recently played"  />
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2sojs2ygjqh0htfwz59hbi0ir)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2sojs2ygjqh0htfwz59hbi0ir&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2sojs2ygjqh0htfwz59hbi0ir&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2sojs2ygjqh0htfwz59hbi0ir&unique={true|1|on|yes})
-  </a>
-</div>
 
 ###
 
